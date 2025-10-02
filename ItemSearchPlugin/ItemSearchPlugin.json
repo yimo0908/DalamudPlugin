@@ -1,0 +1,16 @@
+{
+  "Author": "Caraxi, maintained & updated by Khayle, translated by Yimo",
+  "Name": "Item Search",
+  "InternalName": "ItemSearchPlugin",
+  "AssemblyVersion": "1.10.3.1",
+  "Description": "Filterable search for Items and Key Items.\nTry on any item without having to find someone to link it.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/yimo0908/ItemSearchPlugin",
+  "DalamudApiLevel": 13,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "搜索并展示物品，哪怕你未曾拥有.",
+  "AcceptsFeedback": true
+}
