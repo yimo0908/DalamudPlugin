@@ -31,7 +31,7 @@ jobs:
                   for key, value in obj.items():
                       if isinstance(value, str):
                           obj[key] = re.sub(
-                              r'raw\.githubusercontent\.com'
+                              r'raw\.githubusercontent\.com',
                               value
                           )
                       else:
