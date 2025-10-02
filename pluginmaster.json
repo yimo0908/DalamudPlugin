@@ -82,7 +82,7 @@
     "Name": "SpecialWeaponProgressOverview",
     "InternalName": "SpecialWeaponProgressOverview",
     "AssemblyVersion": "0.0.0.1",
-    "Description": "一个用来检测和快速查询肝武进度的小工具。\n（如肝武放置在雇员身上则需要官库的Allagan Tools）",
+    "Description": "一个用来检测和快速查询肝武进度的小工具。\n（如肝武放置在雇员身上则需要官库的Allagan Tools，但数据读取依旧不稳定）",
     "ApplicableVersion": "any",
     "Tags": [
       "Bozja",
