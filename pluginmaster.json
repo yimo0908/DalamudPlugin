@@ -48,6 +48,7 @@
     "AcceptsFeedback": true,
     "IsHide": false, 
     "IsTestingExclusive": false, 
+    "IconUrl":"https://github.com/yimo0908/DalamudPlugin/raw/master/ItemSearchPlugin/icon.png",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/yimo0908/DalamudPlugin/master/ItemSearchPlugin/ItemSearchPlugin.zip", 
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/yimo0908/DalamudPlugin/master/ItemSearchPlugin/ItemSearchPlugin.zip"
   }, 
@@ -74,6 +75,7 @@
     "AcceptsFeedback": false,
     "IsHide": false,
     "IsTestingExclusive": false,
+    "IconUrl": "https://github.com/yimo0908/DalamudPlugin/raw/master/Mappy/icon.png",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/yimo0908/DalamudPlugin/master/Mappy/Mappy.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/yimo0908/DalamudPlugin/master/Mappy/Mappy.zip"
   },
