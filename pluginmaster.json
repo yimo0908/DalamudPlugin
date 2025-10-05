@@ -100,6 +100,7 @@
     "AcceptsFeedback": true,
     "IsHide": false,
     "IsTestingExclusive": false,
+    "IconUrl": "https://moon.ask0.cc/icon/default.webp",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/yimo0908/DalamudPlugin/master/SpecialWeaponProgressOverview/SpecialWeaponProgressOverview.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/yimo0908/DalamudPlugin/master/SpecialWeaponProgressOverview/SpecialWeaponProgressOverview.zip"
   }
