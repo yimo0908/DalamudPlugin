@@ -56,7 +56,7 @@
     "Author": "MidoriKami, translated by cyf5119 & Yimo",
     "Name": "Mappy",
     "InternalName": "Mappy",
-    "AssemblyVersion": "3.1.6.13",
+    "AssemblyVersion": "3.1.6.15",
     "Description": "将游戏中的地图替换为具有几个附加功能的 ImGui 实现。",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/yimo0908/Mappy",
@@ -77,7 +77,8 @@
     "IsTestingExclusive": false,
     "IconUrl": "https://raw.githubusercontent.com/yimo0908/DalamudPlugin/refs/heads/main/Mappy/icon.png",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/yimo0908/DalamudPlugin/master/Mappy/Mappy.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/yimo0908/DalamudPlugin/master/Mappy/Mappy.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/yimo0908/DalamudPlugin/master/Mappy/Mappy.zip",
+    "Changelog":"增加最大化窗口功能和相应设置，增加窗口锚点设置（不再影响拖动窗口移动/设置窗口大小）by ElliotZ"
   },
   {
     "Author": "KirisameVanilla",
