@@ -84,8 +84,8 @@
     "Author": "KirisameVanilla",
     "Name": "SpecialWeaponProgressOverview",
     "InternalName": "SpecialWeaponProgressOverview",
-    "AssemblyVersion": "0.0.0.3",
-    "Description": "一个用来检测和快速查询肝武进度的小工具。\n（如肝武放置在雇员身上则需要官库的Allagan Tools，但数据读取依旧不稳定）",
+    "AssemblyVersion": "0.0.0.4",
+    "Description": "一个用来检测和快速查询肝武进度的小工具。\n（如肝武放置在雇员身上则需要官库的Allagan Tools，暂不支持幻化柜数据）",
     "ApplicableVersion": "any",
     "Tags": [
       "Bozja",
@@ -101,9 +101,8 @@
     "AcceptsFeedback": true,
     "IsHide": false,
     "IsTestingExclusive": false,
-    "IconUrl": "https://moon.ask0.cc/icon/default.webp",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/yimo0908/DalamudPlugin/master/SpecialWeaponProgressOverview/SpecialWeaponProgressOverview.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/yimo0908/DalamudPlugin/master/SpecialWeaponProgressOverview/SpecialWeaponProgressOverview.zip",
-    "Changelog": "feat: 改进武器进度表格显示效果"
+    "Changelog": "feat: 添加绝境战武器进度追踪功能"
   }
 ]

@@ -1,10 +1,11 @@
 {
-  "Author": "KirisameVanilla",
+  "Author": "KirisameVanilla, Yimo",
   "Name": "SpecialWeaponProgressOverview",
   "InternalName": "SpecialWeaponProgressOverview",
-  "AssemblyVersion": "0.0.0.3",
-  "Description": "一个用来检测和快速查询肝武进度的小工具。\n（如肝武放置在雇员身上则需要官库的Allagan Tools）",
+  "AssemblyVersion": "0.0.0.4",
+  "Description": "一个用来检测和快速查询肝武进度的小工具。\n（如肝武放置在雇员身上则需要官库的Allagan Tools,暂不支持幻化柜数据）",
   "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/yimo0908/SpecialWeaponProgressOverview",
   "Tags": [
     "Bozja",
     "Weapon",
@@ -16,5 +17,5 @@
   "CanUnloadAsync": false,
   "LoadPriority": 0,
   "Punchline": "一个用来检测和快速查询肝武进度的小工具。",
-  "AcceptsFeedback": true
+  "AcceptsFeedback": false
 }
