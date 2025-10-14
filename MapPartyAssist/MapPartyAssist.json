@@ -1,0 +1,26 @@
+{
+  "Author": "SaMo, 穷孩子(适配/汉化)",
+  "Name": "Map Party Assist",
+  "InternalName": "MapPartyAssist",
+  "AssemblyVersion": "2.5.0.3",
+  "Description": "用于记录队员开启的藏宝图，并统计地图与地宫相关数据的工具。",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/QiongHHHZZZ/MapPartyAssist",
+  "Tags": [
+    "treasure maps",
+    "maps",
+    "achievements",
+    "statistics",
+    "items",
+    "plugin"
+  ],
+  "DalamudApiLevel": 13,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "IconUrl": "https://raw.githubusercontent.com/wrath16/MapPartyAssist/master/images/icon.png",
+  "Punchline": "藏宝图追踪与统计助手。",
+  "Changelog": "lacalization to Chinese by 穷孩子",
+  "AcceptsFeedback": true
+}
