@@ -129,9 +129,9 @@
   "LoadPriority": 0,
   "IconUrl": "https://raw.githubusercontent.com/wrath16/MapPartyAssist/master/images/icon.png",
   "Punchline": "藏宝图追踪与统计助手。",
-  "DownloadLinkInstall": "https://raw.githubusercontent.com/yimo0908/MapPartyAssist/master/MapPartyAssist.zip",
-  "DownloadLinkUpdate": "https://raw.githubusercontent.com/yimo0908/MapPartyAssist/master/MapPartyAssist.zip",
+  "DownloadLinkInstall": "https://raw.githubusercontent.com/yimo0908/DalamudPlugin/master/MapPartyAssist/MapPartyAssist.zip",
+  "DownloadLinkUpdate": "https://raw.githubusercontent.com/yimo0908/DalamudPlugin/master/MapPartyAssist/MapPartyAssist.zip",
   "Changelog": "lacalization to Chinese by 穷孩子",
   "AcceptsFeedback": true
-}
+  }
 ]
