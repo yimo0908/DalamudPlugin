@@ -24,7 +24,7 @@
       "https://github.com/Seventhxiv/Collections/assets/140892523/2762dfed-e9c7-46a5-aaf5-d395aa62ce22",
       "https://github.com/Seventhxiv/Collections/assets/140892523/d81ae15a-a91e-4af6-8a34-7f7c121f68f6"
     ],
-    "IconUrl": "https://xivapi.com/img-misc/061643.png",
+    "IconUrl": "https://cafemaker.wakingsands.com/img-misc/061643.png",
     "Punchline": "追踪、发现并与游戏中的收藏互动",
     "AcceptsFeedback": true,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/yimo0908/DalamudPlugin/master/Collections/Collections.zip",
@@ -101,6 +101,7 @@
     "AcceptsFeedback": true,
     "IsHide": false,
     "IsTestingExclusive": false,
+    "RepoUrl": "https://github.com/yimo0908/SpecialWeaponProgressOverview",
     "IconUrl":"https://s2.loli.net/2025/10/14/SM39UpqFgBvXGWj.png",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/yimo0908/DalamudPlugin/master/SpecialWeaponProgressOverview/SpecialWeaponProgressOverview.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/yimo0908/DalamudPlugin/master/SpecialWeaponProgressOverview/SpecialWeaponProgressOverview.zip",
@@ -154,15 +155,15 @@
   "CanUnloadAsync": false,
   "LoadPriority": 0,
   "ImageUrls": [
-    "https://raw.githubusercontent.com/yimo0908/FFXIVBlindBoxPlugin/main/images/image1.png"
+    "https://raw.githubusercontent.com/he0119/FFXIVBlindBoxPlugin/main/images/image1.png"
   ],
   "IconUrl": "https://raw.githubusercontent.com/he0119/FFXIVBlindBoxPlugin/main/images/icon.png",
   "Punchline": "查看盲盒中物品的获得情况。",
   "AcceptsFeedback": true,
   "IsHide": false,
   "IsTestingExclusive": false,
-  "DownloadLinkInstall": "https://raw.githubusercontent.com/yimo0908/DalamudPlugin/master/FFXIVBlindBoxPlugin/FFXIVBlindBoxPlugin.zip",
-  "DownloadLinkUpdate": "https://raw.githubusercontent.com/yimo0908/DalamudPlugin/master/FFXIVBlindBoxPlugin/FFXIVBlindBoxPlugin.zip",
+  "DownloadLinkInstall": "https://raw.githubusercontent.com/yimo0908/DalamudPlugin/master/BlindBoxPlugin/BlindBoxPlugin.zip",
+  "DownloadLinkUpdate": "https://raw.githubusercontent.com/yimo0908/DalamudPlugin/master/BlindBoxPlugin/BlindBoxPlugin.zip",
   "Changelog": "- 引入庆典礼物箱和无人岛特殊配给货箱数据\n- 调整盲盒物品显示方式，支持点击复制名称至剪贴板"
   }
 ]
