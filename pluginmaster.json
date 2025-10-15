@@ -133,5 +133,36 @@
   "DownloadLinkUpdate": "https://raw.githubusercontent.com/yimo0908/DalamudPlugin/master/MapPartyAssist/MapPartyAssist.zip",
   "Changelog": "lacalization to Chinese by 穷孩子",
   "AcceptsFeedback": true
+  },
+  {
+  "Author": "uy/sun, yimo",
+  "Name": "Blind Box",
+  "InternalName": "BlindBoxPlugin",
+  "AssemblyVersion": "1.9.0.0",
+  "Description": "用来统计盲盒中物品获得情况的插件。\n/blindbox 打开盲盒信息界面。\n/blindbox config 打开设置界面。",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/yimo0908/FFXIVBlindBoxPlugin",
+  "Tags": [
+    "blindbox"
+  ],
+  "CategoryTags": [
+    "utility"
+  ],
+  "DalamudApiLevel": 13,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "ImageUrls": [
+    "https://raw.githubusercontent.com/yimo0908/FFXIVBlindBoxPlugin/main/images/image1.png"
+  ],
+  "IconUrl": "https://raw.githubusercontent.com/he0119/FFXIVBlindBoxPlugin/main/images/icon.png",
+  "Punchline": "查看盲盒中物品的获得情况。",
+  "AcceptsFeedback": true,
+  "IsHide": false,
+  "IsTestingExclusive": false,
+  "DownloadLinkInstall": "https://raw.githubusercontent.com/yimo0908/DalamudPlugin/master/FFXIVBlindBoxPlugin/FFXIVBlindBoxPlugin.zip",
+  "DownloadLinkUpdate": "https://raw.githubusercontent.com/yimo0908/DalamudPlugin/master/FFXIVBlindBoxPlugin/FFXIVBlindBoxPlugin.zip",
+  "Changelog": "- 引入庆典礼物箱和无人岛特殊配给货箱数据\n- 调整盲盒物品显示方式，支持点击复制名称至剪贴板"
   }
 ]
