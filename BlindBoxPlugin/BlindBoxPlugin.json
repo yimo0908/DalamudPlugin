@@ -2,7 +2,7 @@
   "Author": "uy/sun, yimo",
   "Name": "Blind Box",
   "InternalName": "BlindBoxPlugin",
-  "AssemblyVersion": "1.9.0.0",
+  "AssemblyVersion": "1.9.0.1",
   "Description": "用来统计盲盒中物品获得情况的插件。\n/blindbox 打开盲盒信息界面。\n/blindbox config 打开设置界面。",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/yimo0908/FFXIVBlindBoxPlugin",
