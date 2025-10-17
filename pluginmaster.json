@@ -102,7 +102,7 @@
     "IsHide": false,
     "IsTestingExclusive": false,
     "RepoUrl": "https://github.com/yimo0908/SpecialWeaponProgressOverview",
-    "IconUrl":"https://s2.loli.net/2025/10/14/SM39UpqFgBvXGWj.png",
+    "IconUrl":"https://cafemaker.wakingsands.com/img-misc/061644.png",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/yimo0908/DalamudPlugin/master/SpecialWeaponProgressOverview/SpecialWeaponProgressOverview.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/yimo0908/DalamudPlugin/master/SpecialWeaponProgressOverview/SpecialWeaponProgressOverview.zip",
     "Changelog": "feat: 修复一处引用错误"
