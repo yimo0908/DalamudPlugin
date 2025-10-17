@@ -139,7 +139,7 @@
     "Author": "uy/sun, yimo",
   "Name": "Blind Box",
   "InternalName": "BlindBoxPlugin",
-  "AssemblyVersion": "1.9.0.2",
+  "AssemblyVersion": "1.9.0.3",
   "Description": "用来统计盲盒中物品获得情况的插件。\n/blindbox 打开盲盒信息界面。\n/blindbox config 打开设置界面。",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/yimo0908/FFXIVBlindBoxPlugin",
@@ -164,6 +164,6 @@
   "IsTestingExclusive": false,
   "DownloadLinkInstall": "https://raw.githubusercontent.com/yimo0908/DalamudPlugin/master/BlindBoxPlugin/BlindBoxPlugin.zip",
   "DownloadLinkUpdate": "https://raw.githubusercontent.com/yimo0908/DalamudPlugin/master/BlindBoxPlugin/BlindBoxPlugin.zip",
-  "Changelog": "1.9.0.2: 根据物品是否已获得或可交易为其名称设置不同颜色显示"
+  "Changelog": "1.9.0.3: 增加优雷卡、博兹雅盲盒数据"
   }
 ]
