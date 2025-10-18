@@ -84,7 +84,7 @@
     "Author": "KirisameVanilla",
     "Name": "SpecialWeaponProgressOverview",
     "InternalName": "SpecialWeaponProgressOverview",
-    "AssemblyVersion": "0.0.0.6",
+    "AssemblyVersion": "0.0.0.7",
     "Description": "一个用来检测和快速查询肝武进度的小工具。\n（如肝武放置在雇员身上则需要官库的Allagan Tools，暂不支持幻化柜数据）",
     "ApplicableVersion": "any",
     "Tags": [
@@ -105,7 +105,7 @@
     "IconUrl":"https://cafemaker.wakingsands.com/img-misc/061644.png",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/yimo0908/DalamudPlugin/master/SpecialWeaponProgressOverview/SpecialWeaponProgressOverview.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/yimo0908/DalamudPlugin/master/SpecialWeaponProgressOverview/SpecialWeaponProgressOverview.zip",
-    "Changelog": "feat: 修复一处引用错误"
+    "Changelog": "feat: 增加古武统计数据"
   },
   {
   "Author": "SaMo, 穷孩子(适配/汉化)",
