@@ -5,7 +5,7 @@
 ## 仓库链接
 
 ```
-https://raw.githubusercontent.com/meowzwr/dalamudplugin/main/repo.json
+https://raw.githubusercontent.com/yimo0908/DalamudPlugin/refs/heads/main/pluginmaster.json
 ```
 
 ## 插件列表
