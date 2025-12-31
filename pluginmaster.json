@@ -58,7 +58,7 @@
     "Author": "uy/sun, yimo",
     "Name": "Blind Box",
     "InternalName": "BlindBoxPlugin",
-    "AssemblyVersion": "1.9.1.0",
+    "AssemblyVersion": "1.9.1.1",
     "Description": "用来统计盲盒中物品获得情况的插件。\n/blindbox 打开盲盒信息界面。\n/blindbox config 打开设置界面。",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/yimo0908/FFXIVBlindBoxPlugin",
@@ -83,7 +83,7 @@
     "IsTestingExclusive": false,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/yimo0908/DalamudPlugin/master/BlindBoxPlugin/BlindBoxPlugin.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/yimo0908/DalamudPlugin/master/BlindBoxPlugin/BlindBoxPlugin.zip",
-    "Changelog": "1.9.1.0: api 14"
+    "Changelog": "1.9.1.1: fix bugs"
   },
   {
   "Author": "Infi, translated by yimo",
