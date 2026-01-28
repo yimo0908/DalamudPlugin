@@ -1,37 +1,9 @@
 [
   {
-    "Author": "MidoriKami, translated by cyf5119 & Yimo",
-    "Name": "Mappy",
-    "InternalName": "Mappy",
-    "AssemblyVersion": "3.1.6.15",
-    "Description": "将游戏中的地图替换为具有几个附加功能的 ImGui 实现。",
-    "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/yimo0908/Mappy",
-    "Tags": [
-      "map",
-      "mapping",
-      "overlay",
-      "utility"
-    ],
-    "DalamudApiLevel": 13,
-    "LoadRequiredState": 0,
-    "LoadSync": false,
-    "CanUnloadAsync": false,
-    "LoadPriority": 0,
-    "Punchline": "更通用的游戏内地图",
-    "AcceptsFeedback": false,
-    "IsHide": false,
-    "IsTestingExclusive": false,
-    "IconUrl": "https://s2.loli.net/2025/10/14/heHViKfjvxXuYdI.png",
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/yimo0908/DalamudPlugin/master/Mappy/Mappy.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/yimo0908/DalamudPlugin/master/Mappy/Mappy.zip",
-    "Changelog":"增加最大化窗口功能和相应设置，增加窗口锚点设置（不再影响拖动窗口移动/设置窗口大小）by ElliotZ"
-  },
-  {
     "Author": "KirisameVanilla",
     "Name": "SpecialWeaponProgressOverview",
     "InternalName": "SpecialWeaponProgressOverview",
-    "AssemblyVersion": "0.0.0.8",
+    "AssemblyVersion": "0.0.0.9",
     "Description": "一个用来检测和快速查询肝武进度的小工具。\n（如肝武放置在雇员身上则需要官库的Allagan Tools，暂不支持幻化柜数据）",
     "ApplicableVersion": "any",
     "Tags": [
@@ -50,9 +22,9 @@
     "IsTestingExclusive": false,
     "RepoUrl": "https://github.com/yimo0908/SpecialWeaponProgressOverview",
     "IconUrl":"https://cafemaker.wakingsands.com/img-misc/061644.png",
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/yimo0908/DalamudPlugin/master/SpecialWeaponProgressOverview/SpecialWeaponProgressOverview.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/yimo0908/DalamudPlugin/master/SpecialWeaponProgressOverview/SpecialWeaponProgressOverview.zip",
-    "Changelog": "api 14"
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/yimo0908/DalamudPlugin/master/SpecialWeaponProgressOverview/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/yimo0908/DalamudPlugin/master/SpecialWeaponProgressOverview/latest.zip",
+    "Changelog": "幻境武器 黯影"
   },
   {
     "Author": "uy/sun, yimo",
