@@ -30,7 +30,7 @@
     "Author": "uy/sun, yimo",
     "Name": "Blind Box",
     "InternalName": "BlindBoxPlugin",
-    "AssemblyVersion": "1.9.1.1",
+    "AssemblyVersion": "1.9.2.1",
     "Description": "用来统计盲盒中物品获得情况的插件。\n/blindbox 打开盲盒信息界面。\n/blindbox config 打开设置界面。",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/yimo0908/FFXIVBlindBoxPlugin",
@@ -40,7 +40,7 @@
     "CategoryTags": [
       "utility"
     ],
-    "DalamudApiLevel": 14,
+    "DalamudApiLevel": 15,
     "LoadRequiredState": 0,
     "LoadSync": false,
     "CanUnloadAsync": false,
@@ -53,15 +53,15 @@
     "AcceptsFeedback": true,
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/yimo0908/DalamudPlugin/master/BlindBoxPlugin/BlindBoxPlugin.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/yimo0908/DalamudPlugin/master/BlindBoxPlugin/BlindBoxPlugin.zip",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/yimo0908/DalamudPlugin/master/BlindBoxPlugin/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/yimo0908/DalamudPlugin/master/BlindBoxPlugin/latest.zip",
     "Changelog": "1.9.1.1: fix bugs"
   },
   {
   "Author": "Infi, translated by yimo",
-  "Name": "EventyCN",
+  "Name": "Eventy",
   "InternalName": "Eventy",
-  "AssemblyVersion": "1.0.6.0",
+  "AssemblyVersion": "1.0.7.0",
   "Description": "简单但实用的日历\n- 当前活动显示在服务器栏条目中，便于快速查看\n- 浏览当前、即将举行和过往举办的活动\n- 对制作人来信和其他重要场合的特殊日期进行高亮显示",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/yimo0908/Eventy",
@@ -71,7 +71,7 @@
     "Dates",
     "DTR"
   ],
-  "DalamudApiLevel": 14,
+  "DalamudApiLevel": 15,
   "LoadRequiredState": 0,
   "LoadSync": false,
   "CanUnloadAsync": false,
@@ -80,7 +80,7 @@
   "AcceptsFeedback": true,
   "IsHide": false,
   "IsTestingExclusive": false,
-  "DownloadLinkInstall": "https://raw.githubusercontent.com/yimo0908/DalamudPlugin/master/EventyCN/Eventy.zip",
-  "DownloadLinkUpdate": "https://raw.githubusercontent.com/yimo0908/DalamudPlugin/master/EventyCN/Eventy.zip"
+  "DownloadLinkInstall": "https://raw.githubusercontent.com/yimo0908/DalamudPlugin/master/Eventy/latest.zip",
+  "DownloadLinkUpdate": "https://raw.githubusercontent.com/yimo0908/DalamudPlugin/master/Eventy/latest.zip"
 }
 ]
