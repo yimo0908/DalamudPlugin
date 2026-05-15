@@ -61,7 +61,7 @@
   "AssemblyVersion": "1.0.7.0",
   "Description": "简单但实用的日历\n- 当前活动显示在服务器栏条目中，便于快速查看\n- 浏览当前、即将举行和过往举办的活动\n- 对制作人来信和其他重要场合的特殊日期进行高亮显示",
   "ApplicableVersion": "any",
-  "RepoUrl": "https://github.com/yimo0908/Eventy",
+  "RepoUrl": 0,
   "Tags": [
     "Plugin",
     "Events",
@@ -77,7 +77,7 @@
   "AcceptsFeedback": true,
   "IsHide": false,
   "IsTestingExclusive": false,
-  "DownloadLinkInstall": "https://raw.githubusercontent.com/yimo0908/DalamudPlugin/master/Eventy/latest.zip",
-  "DownloadLinkUpdate": "https://raw.githubusercontent.com/yimo0908/DalamudPlugin/master/Eventy/latest.zip"
+  "DownloadLinkInstall": 0,
+  "DownloadLinkUpdate": 0
 }
 ]
