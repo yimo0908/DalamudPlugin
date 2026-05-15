@@ -4,7 +4,7 @@
     "Name": "SpecialWeaponProgressOverview",
     "InternalName": "SpecialWeaponProgressOverview",
     "AssemblyVersion": "0.0.0.9",
-    "Description": "一个用来检测和快速查询肝武进度的小工具。\n（如肝武放置在雇员身上则需要官库的Allagan Tools，暂不支持幻化柜数据）",
+    "Description": "**停更，请使用Omni Toolbox**一个用来检测和快速查询肝武进度的小工具。\n（如肝武放置在雇员身上则需要官库的Allagan Tools，暂不支持幻化柜数据）",
     "ApplicableVersion": "any",
     "Tags": [
       "Bozja",
@@ -16,14 +16,14 @@
     "LoadSync": false,
     "CanUnloadAsync": false,
     "LoadPriority": 0,
-    "Punchline": "一个用来检测和快速查询肝武进度的小工具。",
+    "Punchline": "**停更，请使用Omni Toolbox**一个用来检测和快速查询肝武进度的小工具。",
     "AcceptsFeedback": true,
     "IsHide": false,
     "IsTestingExclusive": false,
-    "RepoUrl": "https://github.com/yimo0908/SpecialWeaponProgressOverview",
-    "IconUrl":"https://cafemaker.wakingsands.com/img-misc/061644.png",
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/yimo0908/DalamudPlugin/master/SpecialWeaponProgressOverview/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/yimo0908/DalamudPlugin/master/SpecialWeaponProgressOverview/latest.zip",
+    "RepoUrl": 0,
+    "IconUrl": 0,
+    "DownloadLinkInstall": 0,
+    "DownloadLinkUpdate": 0,
     "Changelog": "幻境武器 黯影"
   },
   {
@@ -31,9 +31,9 @@
     "Name": "Blind Box",
     "InternalName": "BlindBoxPlugin",
     "AssemblyVersion": "1.9.2.1",
-    "Description": "用来统计盲盒中物品获得情况的插件。\n/blindbox 打开盲盒信息界面。\n/blindbox config 打开设置界面。",
+    "Description": "**停更，请使用Omni Toolbox**用来统计盲盒中物品获得情况的插件。\n/blindbox 打开盲盒信息界面。\n/blindbox config 打开设置界面。",
     "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/yimo0908/FFXIVBlindBoxPlugin",
+    "RepoUrl": 0,
     "Tags": [
       "blindbox"
     ],
@@ -45,16 +45,13 @@
     "LoadSync": false,
     "CanUnloadAsync": false,
     "LoadPriority": 0,
-    "ImageUrls": [
-      "https://raw.githubusercontent.com/yimo0908/FFXIVBlindBoxPlugin/main/images/image1.png"
-    ],
-    "IconUrl": "https://raw.githubusercontent.com/he0119/FFXIVBlindBoxPlugin/main/images/icon.png",
-    "Punchline": "查看盲盒中物品的获得情况。",
+    "IconUrl": 0,
+    "Punchline": "**停更，请使用Omni Toolbox**查看盲盒中物品的获得情况。",
     "AcceptsFeedback": true,
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/yimo0908/DalamudPlugin/master/BlindBoxPlugin/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/yimo0908/DalamudPlugin/master/BlindBoxPlugin/latest.zip",
+    "DownloadLinkInstall": 0,
+    "DownloadLinkUpdate": 0,
     "Changelog": "1.9.1.1: fix bugs"
   },
   {
