@@ -30,7 +30,7 @@
     "Author": "uy/sun, yimo",
     "Name": "Blind Box",
     "InternalName": "BlindBoxPlugin",
-    "AssemblyVersion": "1.9.2.2",
+    "AssemblyVersion": "1.9.2.3",
     "Description": "用来统计盲盒中物品获得情况的插件。\n/blindbox 打开盲盒信息界面。\n/blindbox config 打开设置界面。",
     "ApplicableVersion": "any",
     "RepoUrl": 0,
@@ -55,13 +55,13 @@
     "IsTestingExclusive": false,
     "DownloadLinkInstall": 0,
     "DownloadLinkUpdate": 0,
-    "Changelog": "AI 发复活卡了"
+    "Changelog": "feat(deepdungeon): 添加死宫/天宫/优雷卡/交错路盲盒数据与系列筛选功能"
   },
   {
     "Author": "yimo",
     "Name": "TreasureForecast",
     "InternalName": "TreasureForecast",
-    "AssemblyVersion": "1.0.0.1",
+    "AssemblyVersion": "1.0.0.2",
     "Description": "基于 FFXIV 网络数据包实时预测宝物库（G10 运河/G12 梦羽/G15 育体）转盘召唤结果、开门结果。支持巡梦金库老虎机结果预测。\n命令：/tforecast 打开主窗口",
     "ApplicableVersion": "any",
     "RepoUrl": 0,
