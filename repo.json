@@ -1,0 +1,91 @@
+[
+  {
+    "Author": "KirisameVanilla, Yimo",
+    "Name": "SpecialWeaponProgressOverview",
+    "InternalName": "SpecialWeaponProgressOverview",
+    "AssemblyVersion": "0.0.0.9",
+    "Description": "一个用来检测和快速查询肝武进度的小工具。\n（如肝武放置在雇员身上则需要官库的Allagan Tools,暂不支持幻化柜数据），数据刷新失败需要重载插件",
+    "ApplicableVersion": "any",
+    "RepoUrl": 0,
+    "Tags": [
+      "Bozja",
+      "Weapon",
+      "Eureka"
+    ],
+    "DalamudApiLevel": 15,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "Punchline": "一个用来检测和快速查询肝武进度的小工具。",
+    "AcceptsFeedback": false,
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "IconUrl": 0,
+    "DownloadLinkInstall": 0,
+    "DownloadLinkUpdate": 0,
+    "Changelog": "AI 发复活卡了"
+  },
+  {
+    "Author": "uy/sun, yimo",
+    "Name": "Blind Box",
+    "InternalName": "BlindBoxPlugin",
+    "AssemblyVersion": "1.9.2.2",
+    "Description": "用来统计盲盒中物品获得情况的插件。\n/blindbox 打开盲盒信息界面。\n/blindbox config 打开设置界面。",
+    "ApplicableVersion": "any",
+    "RepoUrl": 0,
+    "Tags": [
+      "blindbox"
+    ],
+    "CategoryTags": [
+      "utility"
+    ],
+    "DalamudApiLevel": 15,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "ImageUrls": [
+      "https://raw.githubusercontent.com/yimo0908/FFXIVBlindBoxPlugin/main/images/image1.png"
+    ],
+    "IconUrl": 0,
+    "Punchline": "查看盲盒中物品的获得情况。",
+    "AcceptsFeedback": true,
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkInstall": 0,
+    "DownloadLinkUpdate": 0,
+    "Changelog": "AI 发复活卡了"
+  },
+  {
+    "Author": "yimo",
+    "Name": "TreasureForecast",
+    "InternalName": "TreasureForecast",
+    "AssemblyVersion": "1.0.0.1",
+    "Description": "基于 FFXIV 网络数据包实时预测宝物库（G10 运河/G12 梦羽/G15 育体）转盘召唤结果、开门结果。支持巡梦金库老虎机结果预测。\n命令：/tforecast 打开主窗口",
+    "ApplicableVersion": "any",
+    "RepoUrl": 0,
+    "Tags": [
+      "treasure",
+      "hunt",
+      "挖宝",
+      "宝藏",
+      "宝物库",
+      "prediction",
+      "forecast"
+    ],
+    "DalamudApiLevel": 15,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "IconUrl": 0,
+    "Punchline": "实时预测宝物库转盘召唤与开门结果",
+    "AcceptsFeedback": true,
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkInstall": 0,
+    "DownloadLinkUpdate": 0,
+    "Changelog": "AI 生了"
+  }
+]
