@@ -30,7 +30,7 @@
     "Author": "uy/sun, yimo",
     "Name": "Blind Box",
     "InternalName": "BlindBoxPlugin",
-    "AssemblyVersion": "1.9.3.0",
+    "AssemblyVersion": "1.9.3.1",
     "Description": "用来统计盲盒中物品获得情况的插件。\n/blindbox 打开盲盒信息界面。\n/blindbox config 打开设置界面。",
     "ApplicableVersion": "any",
     "RepoUrl": 0,
@@ -55,7 +55,7 @@
     "IsTestingExclusive": false,
     "DownloadLinkInstall": 0,
     "DownloadLinkUpdate": 0,
-    "Changelog": "feat(ui): 主界面像素暗色风格重设计，新增获取进度条与标题栏设置按钮"
+    "Changelog": "fix(ui): 修复图例颜色不匹配，全部分类下盲盒按系列分组排序"
   },
   {
     "Author": "yimo",
