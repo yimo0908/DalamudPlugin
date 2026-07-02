@@ -30,7 +30,7 @@
     "Author": "uy/sun, yimo",
     "Name": "Blind Box",
     "InternalName": "BlindBoxPlugin",
-    "AssemblyVersion": "1.9.2.3",
+    "AssemblyVersion": "1.9.3.0",
     "Description": "用来统计盲盒中物品获得情况的插件。\n/blindbox 打开盲盒信息界面。\n/blindbox config 打开设置界面。",
     "ApplicableVersion": "any",
     "RepoUrl": 0,
@@ -55,7 +55,7 @@
     "IsTestingExclusive": false,
     "DownloadLinkInstall": 0,
     "DownloadLinkUpdate": 0,
-    "Changelog": "feat(deepdungeon): 添加死宫/天宫/优雷卡/交错路盲盒数据与系列筛选功能"
+    "Changelog": "feat(ui): 主界面像素暗色风格重设计，新增获取进度条与标题栏设置按钮"
   },
   {
     "Author": "yimo",
