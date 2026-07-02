@@ -86,6 +86,6 @@
     "IsTestingExclusive": false,
     "DownloadLinkInstall": 0,
     "DownloadLinkUpdate": 0,
-    "Changelog": "AI 生了"
+    "Changelog": "feat(ui): 主窗口像素风格重设计，新增历史导出功能"
   }
 ]
