@@ -3,8 +3,8 @@
     "Author": "KirisameVanilla, Yimo",
     "Name": "SpecialWeaponProgressOverview",
     "InternalName": "SpecialWeaponProgressOverview",
-    "AssemblyVersion": "0.0.1.1",
-    "Description": "一个用来检测和快速查询肝武进度的小工具。\n（如肝武放置在雇员身上则需要官库的Allagan Tools,暂不支持幻化柜数据），数据刷新失败需要重载插件",
+    "AssemblyVersion": "0.0.1.2",
+    "Description": "一个用来检测和快速查询肝武进度的小工具。\n（如肝武放置在雇员身上则需要官库的Allagan Tools,暂不支持幻化柜数据）",
     "ApplicableVersion": "any",
     "RepoUrl": 0,
     "Tags": [
@@ -24,13 +24,13 @@
     "IconUrl": 0,
     "DownloadLinkInstall": 0,
     "DownloadLinkUpdate": 0,
-    "Changelog": "feat: 商店兑换界面追加素材共需数量，获得追踪武器自动刷新缓存"
+    "Changelog": "fix: 修复 Allagan Tools 检测缓存导致先于 AT 加载时识别失败"
   },
   {
     "Author": "uy/sun, yimo",
     "Name": "Blind Box",
     "InternalName": "BlindBoxPlugin",
-    "AssemblyVersion": "1.9.3.1",
+    "AssemblyVersion": "1.9.3.2",
     "Description": "用来统计盲盒中物品获得情况的插件。\n/blindbox 打开盲盒信息界面。\n/blindbox config 打开设置界面。",
     "ApplicableVersion": "any",
     "RepoUrl": 0,
@@ -55,7 +55,7 @@
     "IsTestingExclusive": false,
     "DownloadLinkInstall": 0,
     "DownloadLinkUpdate": 0,
-    "Changelog": "fix(ui): 修复图例颜色不匹配，全部分类下盲盒按系列分组排序"
+    "Changelog": "fix(ui): 列表区域独立滚动，避免整页滚动"
   },
   {
     "Author": "yimo",
