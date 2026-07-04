@@ -22,8 +22,8 @@
     "IsHide": false,
     "IsTestingExclusive": false,
     "IconUrl": 0,
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/yimo0908/DalamudPlugin/raw/main/SpecialWeaponProgressOverview/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/yimo0908/DalamudPlugin/raw/main/SpecialWeaponProgressOverview/latest.zip",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/yimo0908/DalamudPlugin/main/SpecialWeaponProgressOverview/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/yimo0908/DalamudPlugin/main/SpecialWeaponProgressOverview/latest.zip",
     "Changelog": "feat: 新增宇宙工具系列追踪，重构像素风格 UI 主题"
   },
   {
@@ -53,8 +53,8 @@
     "AcceptsFeedback": true,
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/yimo0908/DalamudPlugin/raw/main/BlindBoxPlugin/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/yimo0908/DalamudPlugin/raw/main/BlindBoxPlugin/latest.zip",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/yimo0908/DalamudPlugin/main/BlindBoxPlugin/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/yimo0908/DalamudPlugin/main/BlindBoxPlugin/latest.zip",
     "Changelog": "fix(ui): 列表区域独立滚动，避免整页滚动"
   },
   {
@@ -84,8 +84,8 @@
     "AcceptsFeedback": true,
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/yimo0908/DalamudPlugin/raw/main/TreasureForecast/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/yimo0908/DalamudPlugin/raw/main/TreasureForecast/latest.zip",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/yimo0908/DalamudPlugin/main/TreasureForecast/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/yimo0908/DalamudPlugin/main/TreasureForecast/latest.zip",
     "Changelog": "fix: 修复地图名清除后未恢复，新增巡梦金库 Resume 结果类型支持"
   }
 ]
