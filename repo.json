@@ -61,7 +61,7 @@
     "Author": "yimo",
     "Name": "TreasureForecast",
     "InternalName": "TreasureForecast",
-    "AssemblyVersion": "1.0.1.1",
+    "AssemblyVersion": "1.0.2.0",
     "Description": "基于 FFXIV 网络数据包实时预测宝物库（G10 运河/G12 梦羽/G15 育体）转盘召唤结果、开门结果。支持巡梦金库老虎机结果预测。\n命令：/tforecast 打开主窗口",
     "ApplicableVersion": "any",
     "RepoUrl": 0,
@@ -86,6 +86,6 @@
     "IsTestingExclusive": false,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/yimo0908/DalamudPlugin/main/TreasureForecast/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/yimo0908/DalamudPlugin/main/TreasureForecast/latest.zip",
-    "Changelog": "fix: 修复地图名清除后未恢复，新增巡梦金库 Resume 结果类型支持"
+    "Changelog": "feat: 新增选门地图回退记录与团灭检测，历史去重优化"
   }
 ]
