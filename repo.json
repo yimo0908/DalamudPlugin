@@ -30,7 +30,7 @@
     "Author": "uy/sun, yimo",
     "Name": "Blind Box",
     "InternalName": "BlindBoxPlugin",
-    "AssemblyVersion": "1.9.3.2",
+    "AssemblyVersion": "1.9.4.0",
     "Description": "用来统计盲盒中物品获得情况的插件。\n/blindbox 打开盲盒信息界面。\n/blindbox config 打开设置界面。",
     "ApplicableVersion": "any",
     "RepoUrl": 0,
@@ -55,7 +55,7 @@
     "IsTestingExclusive": false,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/yimo0908/DalamudPlugin/main/BlindBoxPlugin/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/yimo0908/DalamudPlugin/main/BlindBoxPlugin/latest.zip",
-    "Changelog": "fix(ui): 列表区域独立滚动，避免整页滚动"
+    "Changelog": "refactor: 盲盒数据迁移至 JSON 嵌入式资源，统一命名规范"
   },
   {
     "Author": "yimo",
