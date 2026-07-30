@@ -3,7 +3,7 @@
     "Author": "KirisameVanilla, Yimo",
     "Name": "SpecialWeaponProgressOverview",
     "InternalName": "SpecialWeaponProgressOverview",
-    "AssemblyVersion": "0.0.1.5",
+    "AssemblyVersion": "0.1.0.0",
     "Description": "一个用来检测和快速查询肝武进度的小工具。\n（如肝武放置在雇员身上则需要官库的Allagan Tools,暂不支持幻化柜数据）",
     "ApplicableVersion": "any",
     "RepoUrl": 0,
@@ -24,7 +24,7 @@
     "IconUrl": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/yimo0908/DalamudPlugin/main/SpecialWeaponProgressOverview/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/yimo0908/DalamudPlugin/main/SpecialWeaponProgressOverview/latest.zip",
-    "Changelog": "feat: 新增宇宙工具系列追踪，重构像素风格 UI 主题"
+    "Changelog": "feat: 新增幻境武器第四阶段蚀影和第五阶段秘影"
   },
   {
     "Author": "uy/sun, yimo",
