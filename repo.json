@@ -92,7 +92,7 @@
     "Author": "yimo",
     "Name": "特殊地图成就追踪",
     "InternalName": "FieldAchievements",
-    "AssemblyVersion": "0.1.2.0",
+    "AssemblyVersion": "0.1.3.0",
     "Description": "追踪特殊场景探索（蜃景幻界新月岛南征/北征之章、南方博兹雅战线、扎杜诺尔高原）相关成就进度。\n主窗口分 Tab 显示各个地图的成就追踪，悬浮窗显示当前地图的成就追踪。\n相同成就的不同数量目标只追踪最高数量。\n命令：/fach 打开主窗口",
     "ApplicableVersion": "any",
     "RepoUrl": 0,
@@ -117,6 +117,6 @@
     "IconUrl": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/yimo0908/DalamudPlugin/main/FieldAchievements/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/yimo0908/DalamudPlugin/main/FieldAchievements/latest.zip",
-    "Changelog": "feat: 新增两歧塔、女王古殿等副本成就追踪；新增基于 buff 层级的成就进度追踪（辅助职业之王、博兹雅的彗星）"
+    "Changelog": "fix: 修复 buff 追踪成就离开适用地图后进度显示错误，未完成时显示未知进度（??/上限）；成就名称与描述改为运行时从游戏数据获取"
   }
 ]
