@@ -123,8 +123,8 @@
     "Author": "Infi & yimo",
     "Name": "EventyCN",
     "InternalName": "EventyCN",
-    "AssemblyVersion": "1.0.8.0",
-    "Description": "简单实用的日历插件\n- 在服务器栏中显示当前活动\n- 浏览当前、即将到来和过往的活动\n- 重要日期高亮显示",
+    "AssemblyVersion": "2.0.1.0",
+    "Description": "在服务器栏中显示当前进行中的国服FFXIV活动\n- 从官方活动中心获取节庆活动数据\n- 服务器栏入口点击直达设置页面\n- 支持标记活动为已完成",
     "ApplicableVersion": "any",
     "RepoUrl": 0,
     "Tags": [
@@ -145,7 +145,7 @@
     "IsTestingExclusive": false,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/yimo0908/DalamudPlugin/main/EventyCN/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/yimo0908/DalamudPlugin/main/EventyCN/latest.zip",
-    "Changelog": "初次发布"
+    "Changelog": "v2.0.1.0: 切换数据源至官方活动中心节庆列，移除月历主窗口，点击服务器栏入口直达设置页面，已完成页面点击活动名称可跳转详情网页"
   },
   {
     "Author": "yimo",
