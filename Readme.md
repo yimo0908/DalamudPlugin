@@ -30,3 +30,4 @@
 | [特殊地图成就追踪](https://github.com/yimo0908/FieldAchievements) | 追踪蜃景幻界新月岛、博兹雅战线、扎杜诺尔高原、无人岛的探索成就进度。 | 0.1.4.0 | 15 |请使用[`LatihasExport`](https://raw.githubusercontent.com/Latihas/dalamud-plugins/main/repo.json)作为上位替代|
 | [EventyCN](https://github.com/yimo0908/EventyCN) | 简单实用的日历插件，在服务器栏中显示当前活动，浏览当前、即将到来和过往的活动。 | 2.0.1.0 | 15 | 请使用[`OmniToolBox`](https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Pluginmaster.json)作为上位替代 |
 | [新月岛补正检测](https://github.com/yimo0908/SpecialAttributeCheck) | 新月岛内检测小队/周围玩家补正（2x+y）。 | 0.3.0.0 | 15 |请使用[`宝宝椅`](https://www.bilibili.com/opus/998425290402168834?spm_id_from=333.1387.0.0)作为上位替代|
+| [Verification Monitor](https://github.com/yimo0908/VerificationMonitor) | 监控插件验证状态并自动启动 AEAssist。 | 0.0.1.0 | 15 |请使用[`KeitaBox`](https://raw.githubusercontent.com/zhui-zi/DalamudPlugins/main/pluginmaster.json)作为上位替代|
