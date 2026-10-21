@@ -24,7 +24,7 @@
 
 | 插件名称 | 介绍 | 发布版本 | Api版本 | 备注 |
 |--------|:----|:--------:|:--------:|:---------:|
-| [SpecialWeaponProgressOverview](https://github.com/yimo0908/SpecialWeaponProgressOverview) | 一个用来检测和快速查询肝武进度的小工具。 | 0.1.1.0 | 15 | 请使用[`OmniToolBox`](https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Pluginmaster.json)或[`肝武助手`](raw.githubusercontent.com/flyrio/TargetSelector/main/TargetSelector.json])作为上位替代 |
+| [SpecialWeaponProgressOverview](https://github.com/yimo0908/SpecialWeaponProgressOverview) | 一个用来检测和快速查询肝武进度的小工具。 | 0.1.1.0 | 15 | 请使用[`OmniToolBox`](https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Pluginmaster.json)或[`肝武助手`](https://raw.githubusercontent.com/flyrio/TargetSelector/main/TargetSelector.json)作为上位替代 |
 | [Blind Box](https://github.com/yimo0908/FFXIVBlindBoxPlugin) | 用来统计盲盒中物品获得情况的插件。 | 1.9.4.0 |15 |请使用[`OmniToolBox`](https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Pluginmaster.json)作为上位替代|
 | [TreasureForecast](https://github.com/yimo0908/TreasureForecast) | 实时预测宝物库转盘召唤与开门结果。 | 1.1.2.0 | 15 |请使用`ACT.抹茶`作为上位替代|
 | [特殊地图成就追踪](https://github.com/yimo0908/FieldAchievements) | 追踪蜃景幻界新月岛、博兹雅战线、扎杜诺尔高原、无人岛的探索成就进度。 | 0.1.4.0 | 15 |请使用[`LatihasExport`](https://raw.githubusercontent.com/Latihas/dalamud-plugins/main/repo.json)作为上位替代|
